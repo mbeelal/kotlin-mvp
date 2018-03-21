@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinMVP</string>
+    <string name="search_title">Search</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="toolbar_title">Kotlin MVP</string>
+</resources>
